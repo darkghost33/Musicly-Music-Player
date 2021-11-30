@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Musicly Music Player</string>
+    <string name="shuffle_button">Shuffle</string>
+    <string name="favourites_button">Favourites</string>
+    <string name="playlist_button">Playlist</string>
+    <string name="total_songs">Total Songs</string>
 </resources>

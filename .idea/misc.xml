@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ANDROID_DEVELOPMENT/MusiclyMusicPlayer/app/src/main/res/drawable/favorite_icon.xml" value="0.1" />
+        <entry key="..\:/ANDROID_DEVELOPMENT/MusiclyMusicPlayer/app/src/main/res/drawable/playlist_icon.xml" value="0.1" />
+        <entry key="..\:/ANDROID_DEVELOPMENT/MusiclyMusicPlayer/app/src/main/res/drawable/shuffle_icon.xml" value="0.1" />
         <entry key="..\:/ANDROID_DEVELOPMENT/MusiclyMusicPlayer/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
         <entry key="..\:/ANDROID_DEVELOPMENT/MusiclyMusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ANDROID_DEVELOPMENT/MusiclyMusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.1" />
       </map>
     </option>
   </component>
