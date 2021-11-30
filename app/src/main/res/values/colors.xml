@@ -11,6 +11,14 @@
     <color name="cool_blue">#0091EA</color>
     <color name="cool_green">#64DD17</color>
     <color name="cool_pink">#F50057</color>
-    <color name="yellow">#FFD600</color>
+
+
+    <color name="violet">#9400D3</color>
+    <color name="indigo">#4B0082</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FF7F00</color>
+    <color name="red">#FF0000</color>
 
 </resources>
