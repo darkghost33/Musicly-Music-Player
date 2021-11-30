@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/splash_screen">
         <activity
+            android:name=".PlaylistActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FavouriteActivity"
+            android:exported="false" />
+        <activity
             android:name=".PlayerActivity"
             android:exported="false" />
         <activity
