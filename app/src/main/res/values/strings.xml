@@ -7,4 +7,10 @@
     <string name="musicly_music_player">Musicly Music Player</string>
     <string name="song_name">Songs</string>
     <string name="back_button">Back</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">Loading…</string>
+    <string name="repeat_btn">Repeat</string>
+    <string name="equilizer_btn">Equilizer</string>
+    <string name="timer_btn">Timer</string>
+    <string name="share_btn">Share</string>
 </resources>
