@@ -15,4 +15,10 @@
     <string name="share_btn">Share</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="app_icon">Icon</string>
+    <string name="text_nav">Welcome to,\nMusicly Music Player</string>
+    <string name="feedback">Feedback</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
 </resources>
